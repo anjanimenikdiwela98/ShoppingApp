@@ -1,1 +1,1 @@
-# App
+# Shopping app
